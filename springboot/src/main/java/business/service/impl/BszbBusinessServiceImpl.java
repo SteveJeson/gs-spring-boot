@@ -3,7 +3,6 @@ package business.service.impl;
 import business.mapper.BszbBusinessMapper;
 import business.model.BszbBusiness;
 import business.service.BszbBusinessService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
